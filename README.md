@@ -34,4 +34,4 @@ In this project, I trained an RNN model on [Seinfeld](https://en.wikipedia.org/w
 
 ### Libraries
 
-- [PyTorch](https://pytorch.org) (LSTM)
+- [tensorflow](https://www.tensorflow.org/) (LSTM)
