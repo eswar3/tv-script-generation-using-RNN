@@ -13,11 +13,11 @@ In this project, I trained an RNN model on [Seinfeld](https://en.wikipedia.org/w
 		git clone https://github.com/eswar3/tv-script-generation-using-RNN.git
 		cd tv-script-generation-using-RNN
 	```
-2. Open the `dlnd_tv_script_generation.ipynb` file. Of course, you can find HTML version of the file.
+2. Open the `tv_script_generation.ipynb` file. 
 	```
 		jupyter notebook tv_script_generation.ipynb
 	```
-3. Read and follow the instructions! This repository already includes the dataset in a form of txt flie in `data` folder.
+3. Read and follow the instructions in the notebook
 
 ## Project Steps
 
